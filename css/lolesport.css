@@ -1,0 +1,56 @@
+html{
+	line-height: 0.8 !important;
+}
+
+.logo-ptl{
+	height: 62px;
+}
+
+.padd-25{
+	padding: 25px !important;
+}
+
+.font-zise-x{
+	font-size: 1.1rem !important;
+}
+
+.marg-bt-0{
+	margin-bottom: 0px;
+}
+
+.padd-0{
+	padding: 0 !important;
+}
+
+.width-100{
+	width: 100%;
+}
+
+.height-120{
+	height: 120px !important;
+}
+
+.width-100x{
+	width: 100%;
+}
+
+.height-100x{
+	height: 100%
+}
+
+
+.height-300{
+	height: 300px;
+}
+
+.padding-rigth-x{
+	padding: 0 0 0 8px !important;
+}
+
+.padding-left-x{
+	padding: 0 8px 0 0 !important;
+}
+
+.margin-up{
+	margin-top: 150px;
+}
